@@ -23,7 +23,7 @@ cd devops-engineer-from-scratch-project-49
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-https://asciinema.org/a/Kr4qRuhTyB4Hjhxe
+[![asciicast](https://asciinema.org/a/Kr4qRuhTyB4Hjhxe.svg)](https://asciinema.org/a/Kr4qRuhTyB4Hjhxe)
 ---
 
 <details>
