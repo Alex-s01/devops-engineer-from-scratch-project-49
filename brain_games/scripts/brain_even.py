@@ -1,8 +1,10 @@
 from brain_games.game_engine import engine
 from brain_games.games import even
 
+
 def main():
     engine(even.game, even.DESCRIPTION)
+
 
 if __name__ == "__main__":
     main()

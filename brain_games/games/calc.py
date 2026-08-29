@@ -1,7 +1,7 @@
 import random
 
-
 DESCRIPTION = "What is the result of the expression?"
+
 
 def game():
     number_one = random.randint(1, 100)
