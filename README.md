@@ -25,9 +25,12 @@ cd devops-engineer-from-scratch-project-49
 
 Пример установки проекта и демонстрация игры brain-even, в которой задача пользователя отвечать является ли число чётным.
 [![asciicast](https://asciinema.org/a/Kr4qRuhTyB4Hjhxe.svg)](https://asciinema.org/a/Kr4qRuhTyB4Hjhxe)
+
 ---
+
 Демонстрация игры brain-calc, в которой пользователю нужно считать результат выражения.
 [![asciicast](https://asciinema.org/a/VGqgj2YuSLJRoZ5w.svg)](https://asciinema.org/a/VGqgj2YuSLJRoZ5w)
+
 ---
 
 <details>
