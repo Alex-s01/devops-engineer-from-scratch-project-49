@@ -23,13 +23,18 @@ cd devops-engineer-from-scratch-project-49
 ## Использование
 
 
-Пример установки проекта и демонстрация игры brain-even, в которой задача пользователя отвечать является ли число чётным.
+Пример установки проекта и демонстрация игры "Проверка на четность", в которой задача пользователя отвечать является ли число чётным.
 [![asciicast](https://asciinema.org/a/Kr4qRuhTyB4Hjhxe.svg)](https://asciinema.org/a/Kr4qRuhTyB4Hjhxe)
 
 ---
 
-Демонстрация игры brain-calc, в которой пользователю нужно считать результат выражения.
+Игра "Калькулятор", в которой пользователю нужно считать результат выражения.
 [![asciicast](https://asciinema.org/a/VGqgj2YuSLJRoZ5w.svg)](https://asciinema.org/a/VGqgj2YuSLJRoZ5w)
+
+---
+
+Игра "НОД", в которой пользователю предлагается найти наибольший общий делитель двух чисел.
+[![asciicast](https://asciinema.org/a/bVfYxl3QvbR9HgFq.svg)](https://asciinema.org/a/bVfYxl3QvbR9HgFq)
 
 ---
 
