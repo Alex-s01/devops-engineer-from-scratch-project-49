@@ -15,7 +15,10 @@ def engine(game, rules: str):
         if answer == session_vars.get("Answer"):
             print("Correct!")
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{session_vars.get('Answer')}'.")
+            print(
+                    f"'{answer}' is wrong answer ;(. "
+                    f"Correct answer was '{session_vars.get('Answer')}'."
+                    )
             print(f"Let's try again, {name}!")
             return
 
