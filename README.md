@@ -38,6 +38,11 @@ cd devops-engineer-from-scratch-project-49
 
 ---
 
+Игра "Арифметическая прогрессия" в которой пользователю предлагается вычислить пропущенное число в списке.
+[![asciicast](https://asciinema.org/a/PvJlgblH2s5DZisn.svg)](https://asciinema.org/a/PvJlgblH2s5DZisn)
+
+---
+
 <details>
 <summary>Автоматические тесты Хекслета</summary>
 
