@@ -43,6 +43,11 @@ cd devops-engineer-from-scratch-project-49
 
 ---
 
+Игра "Простое ли число?" в которой пользователю предлагается угадать является ли число простым.
+[![asciicast](https://asciinema.org/a/Ac84UGzwnemazgI2.svg)](https://asciinema.org/a/Ac84UGzwnemazgI2)
+
+---
+
 <details>
 <summary>Автоматические тесты Хекслета</summary>
 
