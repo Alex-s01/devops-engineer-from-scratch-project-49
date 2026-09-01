@@ -1,10 +1,9 @@
 import prompt
+from brain_games.cli import welcome_user
 
 
 def engine(game, rules: str):
-    print("Welcome to the Brain Games!")
-    name = prompt.string("May I have your name? ").capitalize()
-    print(f"Hello, {name}!")
+    name = welcome_user()
     print(rules)
 
     for _ in range(3):
