@@ -9,12 +9,11 @@ def calc_gcd(one, two):
     return one
 
 
-def game():
+def get_question_and_answer():
     number_one = random.randint(1, 100)
     number_two = random.randint(1, 100)
-    result = {}
 
-    result["Question"] = f"{number_one} {number_two}"
-    result["Answer"] = f"{calc_gcd(number_one, number_two)}"
+    question = f"{number_one} {number_two}"
+    answer = f"{calc_gcd(number_one, number_two)}"
 
-    return result
+    return question, answer

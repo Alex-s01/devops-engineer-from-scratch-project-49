@@ -16,12 +16,11 @@ def gen_sequence():
     return result
 
 
-def game():
+def get_question_and_answer():
     sequence = gen_sequence()
     selected_index = random.choice(range(len(sequence)))
-    result = {}
-    result["Answer"] = f"{sequence[selected_index]}"
+    answer = f"{sequence[selected_index]}"
     sequence[selected_index] = ".."
-    result["Question"] = " ".join(sequence)
+    question = " ".join(sequence)
 
-    return result
+    return question, answer
